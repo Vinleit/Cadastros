@@ -7,6 +7,6 @@ Um projeto de cadastros de pessoas utilizando as tecnologias:
     
 * Angular
   
-* SQLServer
+* SQLServer ( Express )
  
  
