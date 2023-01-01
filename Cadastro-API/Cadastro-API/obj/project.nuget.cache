@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z1EAFwDb6mq2RMPPdnn3U8xbPYzh8FBUQUmJsRfIx4sd7Godg5krgfeo+jNrAjWExAywFOGwMpEx296RiqpNsw==",
+  "dgSpecHash": "1d0cH/ByNCDxTMf4d81w53xXRwTLmJQLhZIZy5T9oAOCsSU1HhGqsfzRmc9wFPGyAmjAuYycv8bHjF3xRPvI0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\josie\\Desktop\\Programa IATEC\\Cadastro-API\\Cadastro-API\\Cadastro-API.csproj",
+  "projectFilePath": "C:\\Users\\josie\\Desktop\\Programa IATEC - c\\Cadastro-API\\Cadastro-API\\Cadastro-API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josie\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\josie\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

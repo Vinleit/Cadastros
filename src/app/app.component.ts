@@ -24,8 +24,8 @@ export class AppComponent {
   }
 
 
-  UpdateCadastroList(cadastros : Cadastro[]){
-    this.PESSOAS = cadastros;
+  UpdateCadastroList(){
+    this.cadastro_pessoas_SERVICE.get_cadastros().subscribe((result : Cadastro[]) => (this.PESSOAS = result))
   }
 
   InitNewCadastro(){
@@ -38,6 +38,7 @@ export class AppComponent {
   }
 
   excluir(cadastro : Cadastro_pessoa){
+    cadastro.data_nascimento = cadastro.data_nascimento.replace("T00:00:00","");
     this.CadastroEdit = cadastro;
   }
 

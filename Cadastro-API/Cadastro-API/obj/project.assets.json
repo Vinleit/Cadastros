@@ -3933,11 +3933,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josie\\Desktop\\Programa IATEC\\Cadastro-API\\Cadastro-API\\Cadastro-API.csproj",
+      "projectUniqueName": "C:\\Users\\josie\\Desktop\\Programa IATEC - c\\Cadastro-API\\Cadastro-API\\Cadastro-API.csproj",
       "projectName": "Cadastro-API",
-      "projectPath": "C:\\Users\\josie\\Desktop\\Programa IATEC\\Cadastro-API\\Cadastro-API\\Cadastro-API.csproj",
+      "projectPath": "C:\\Users\\josie\\Desktop\\Programa IATEC - c\\Cadastro-API\\Cadastro-API\\Cadastro-API.csproj",
       "packagesPath": "C:\\Users\\josie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josie\\Desktop\\Programa IATEC\\Cadastro-API\\Cadastro-API\\obj\\",
+      "outputPath": "C:\\Users\\josie\\Desktop\\Programa IATEC - c\\Cadastro-API\\Cadastro-API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\josie\\AppData\\Roaming\\NuGet\\NuGet.Config",
